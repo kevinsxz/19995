@@ -1,1 +1,6 @@
-System.Diagnostics.Debug.Write(19995);
+int i = 0; 
+while (i < 19995) 
+{ 
+    i++; 
+    Print(i); 
+}
